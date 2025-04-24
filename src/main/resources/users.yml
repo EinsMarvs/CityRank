@@ -1,0 +1,4 @@
+users:
+  0000-uuid-test:
+    name: TestUser
+    rank: spieler

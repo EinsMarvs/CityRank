@@ -1,0 +1,10 @@
+ranks:
+  admin:
+    prefix: '&c[Admin]'
+    permissions:
+      - '*'
+  spieler:
+    prefix: '&7[Spieler]'
+    permissions:
+      - 'home'
+      - 'warp'
